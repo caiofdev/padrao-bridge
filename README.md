@@ -1,13 +1,1 @@
-# padrao-bridge
-
-Projeto Java inicializado com Maven e Java 17.
-
-## Comandos
-
-```bash
-mvn test
-mvn package
-java -cp target/classes com.padrao.bridge.App
-```
-
-O codigo principal fica em `src/main/java` e os testes em `src/test/java`.
+<img width="5589" height="2975" alt="image" src="https://github.com/user-attachments/assets/89bd4110-cf5f-43e9-bc31-99f6f26ed42f" />
